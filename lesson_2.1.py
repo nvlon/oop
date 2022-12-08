@@ -12,7 +12,7 @@ class Human:
     def __str__(self):
         return f'{self.name} {self.age} {self.head}'
 
-hum=Human("nvlon", 18)
+hum=Human('Алдияр' ,18)
 hum.name = "aida"
 hum.foots=2
 hum.run()
